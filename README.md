@@ -62,15 +62,22 @@ ArchiveBox      : https://drive.google.com/drive/folders/1ZmB9IB2jfBWQSbL-wyhaEq
 Perma.cc        : https://drive.google.com/drive/folders/1GzFhe34IgSdxaqh_DSB7jyWXjv3tCOYR?usp=drive_link
 
      
-Here are the drive links for Wayback Machine, ArchiveBox, Archive.today and Perma.cc :
+Here are the drive images for Wayback Machine, ArchiveBox, Archive.today and Perma.cc :
 
-Wayback Machine : 
+Wayback Machine :  ![image](https://github.com/lakshmi-jangala/IIS-Project/assets/144286068/dcbe6f71-bd80-4be1-8a46-19559cd2bf51)
 
-ArchiveBox : 
 
-Archive.today : 
 
-Perma.cc : 
+ArchiveBox :   ![image](https://github.com/lakshmi-jangala/IIS-Project/assets/144286068/1c9b890f-e1c0-4c75-b1cf-a2fa7ac3a9b8)
+
+
+
+Archive.today :  ![image](https://github.com/lakshmi-jangala/IIS-Project/assets/144286068/0b6bedaf-b9f6-4594-b8fd-2a7de04be1ea)
+
+
+
+Perma.cc :   ![image](https://github.com/lakshmi-jangala/IIS-Project/assets/144286068/deefd0d6-02f3-4157-a6ad-b53f87935b56)
+
 
 # References
 https://archive.org/
