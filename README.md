@@ -1,7 +1,7 @@
-## Intelligent Interactive system CS795 Project Status and Individual Contribution- 2
+### Intelligent Interactive system CS795 Project Status and Individual Contribution- 2
 
 
-Comparative Analysis of Web Archive Techniques and Website Accessibility
+##Comparative Analysis of Web Archive Techniques and Website Accessibility
 
 This repository contains the code and documentation for a project that aims to compare different web archiving techniques and evaluate website accessibility changes over time using AI-Inspector and IBM Accessibility Checker.
 
