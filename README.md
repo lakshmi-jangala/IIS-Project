@@ -16,11 +16,23 @@ Web archiving is crucial for preserving digital content and ensuring its accessi
 
 # Web Archiving Techniques
 Wayback Machine: The Wayback Machine archives web pages and provides access to historical versions.
+
+
 ArchiveBox: ArchiveBox is a self-hosted web archiving tool used for personal or organizational archiving purposes.
+
+
 Archave.today: Archive.today is a web archiving service that allows users to capture and preserve snapshots of web pages for future reference.
+
+
 Perma.cc: Perma.cc is a service for creating permanent citations to web sources.
+
+
 Trove : Trove is an online library database aggregator provided by the National Library of Australia, offering access to a vast collection of digitized newspapers, images, maps, books, and more from various Australian resources.
+
+
 Pandora : PANDORA (Preserving and Accessing Networked Documentary Resources of Australia) is an archive that collects and preserves websites considered to be of significance in documenting Australian cultural and social history.
+
+
 UK webarchive : The UK Web Archive is a collection of websites from the UK domain that documents the social, cultural, and political life of the UK, preserving them for future generations.
 
 
